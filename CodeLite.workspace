@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CodeLite" Database="" Version="10000">
+  <Project Name="1" Path="1/1.project" Active="No"/>
+  <Project Name="2" Path="2/2.project" Active="No"/>
+  <Project Name="3" Path="3/3.project" Active="No"/>
+  <Project Name="4" Path="4/4.project" Active="No"/>
+  <Project Name="5" Path="5/5.project" Active="No"/>
+  <Project Name="6" Path="6/6.project" Active="No"/>
+  <Project Name="7" Path="7/7.project" Active="No"/>
+  <Project Name="8" Path="8/8.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="1" ConfigName="Debug"/>
+      <Project Name="2" ConfigName="Debug"/>
+      <Project Name="3" ConfigName="Debug"/>
+      <Project Name="4" ConfigName="Debug"/>
+      <Project Name="5" ConfigName="Debug"/>
+      <Project Name="6" ConfigName="Debug"/>
+      <Project Name="7" ConfigName="Debug"/>
+      <Project Name="8" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="1" ConfigName="Release"/>
+      <Project Name="2" ConfigName="Release"/>
+      <Project Name="3" ConfigName="Release"/>
+      <Project Name="4" ConfigName="Release"/>
+      <Project Name="5" ConfigName="Release"/>
+      <Project Name="6" ConfigName="Release"/>
+      <Project Name="7" ConfigName="Release"/>
+      <Project Name="8" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
